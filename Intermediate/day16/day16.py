@@ -2,7 +2,7 @@
 
 import prettytable
 
-from turtle import Turtle,Screen
+from turtle import Turtle, Screen
 
 metisai = Turtle()
 print(metisai)
